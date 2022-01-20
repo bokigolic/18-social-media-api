@@ -83,7 +83,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [Bojan Golic](https://github.com/bokigolic/18-social-media-api)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:bokigolic32@gmali.com) , [GitHub](https://github.com/bokigolic/18-social-media-api)<br />
